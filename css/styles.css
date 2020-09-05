@@ -43,3 +43,13 @@ body {
     border-bottom: 1px solid #dddddd;
     padding: 10px;
 }
+
+.card-header {
+    position: relative;
+}
+.fa-arrow-down {
+    font-size: 25px;
+    position: absolute;
+    right: 10px;
+    color: #101011;
+}

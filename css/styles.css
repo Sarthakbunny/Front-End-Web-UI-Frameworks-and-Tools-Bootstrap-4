@@ -53,9 +53,16 @@ body {
 .fa-arrow-down {
     font-size: 25px;
     position: absolute;
+    top: 20px;
     right: 10px;
     color: #101011;
+    transition: transform 0.4s linear;
 }
+ h3.mb-0.active i {
+    color: rgb(92, 92, 29);
+    transform: rotate(180deg);
+}
+
 
 .carousel {
     background: #512da8;

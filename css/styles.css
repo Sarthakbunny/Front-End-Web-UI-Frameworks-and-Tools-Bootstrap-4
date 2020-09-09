@@ -82,3 +82,9 @@ body {
 .navbar-text:hover {
     cursor: pointer;
 }
+
+#carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}

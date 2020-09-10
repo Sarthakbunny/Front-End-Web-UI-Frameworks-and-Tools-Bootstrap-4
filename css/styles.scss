@@ -90,3 +90,15 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+.modal-header {
+    background-color: $background-dark;
+    color: white;
+    button {
+        color: floralwhite;
+    }
+}
+
+.modal-body {
+    background-color: $background-pale;
+}
